@@ -1,0 +1,16 @@
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\bin\Debug\net8.0\Services.deps.json
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\bin\Debug\net8.0\Services.dll
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\bin\Debug\net8.0\Services.pdb
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\bin\Debug\net8.0\Repositories.dll
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\bin\Debug\net8.0\Repositories.pdb
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.sourcelink.json
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.dll
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\refint\Services.dll
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\Services.pdb
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Services\obj\Debug\net8.0\ref\Services.dll

@@ -1,0 +1,15 @@
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+D:\MyLearning\Ky5\prn211\PE_PRN211_SP23_111234_NguyenHoaiNam\Repositories\obj\Debug\net8.0\ref\Repositories.dll
